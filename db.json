@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "MacBook",
+      "price": "123",
+      "year": "312",
+      "image": "assets/images/bicycle.jpg",
+      "configure": {
+        "diameter": "",
+        "material": "",
+        "weight": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "BF-0351",
+      "price": "800",
+      "year": "2023",
+      "image": "assets/images/bicycle.jpg",
+      "configure": {
+        "diameter": "",
+        "material": "",
+        "weight": ""
+      }
+    },
+    {
+      "id": 7,
+      "title": "Cicle RX-330",
+      "price": "1500",
+      "year": "2023",
+      "image": "assets/images/bicycle.jpg",
+      "configure": {
+        "diameter": "15",
+        "material": "steel",
+        "weight": "18"
+      }
+    },
+    {
+      "id": 8,
+      "title": "sdfdasf",
+      "price": "1500",
+      "year": "2023",
+      "image": "assets/images/bicycle.jpg",
+      "configure": {
+        "diameter": "18",
+        "material": "steel",
+        "weight": "15"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Thing08",
+      "price": "1300",
+      "year": "2024",
+      "image": "assets/images/bicycle.jpg",
+      "configure": {
+        "diameter": "17",
+        "material": "plastic",
+        "weight": "19"
+      }
+    },
+    {
+      "id": 10,
+      "title": "ByC",
+      "price": "2200",
+      "year": "2023",
+      "image": "assets/images/bicycle.jpg",
+      "configure": {
+        "diameter": "18",
+        "material": "carbon",
+        "weight": "19"
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": 9,
+      "title": "Thing08",
+      "price": "1300",
+      "year": "2024",
+      "image": "assets/images/bicycle.jpg",
+      "configure": {
+        "diameter": "17",
+        "material": "plastic",
+        "weight": "19"
+      },
+      "quantity": 3
+    }
+  ]
+}
